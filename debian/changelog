@@ -1,3 +1,10 @@
+mstpd (0.0.9+nmu1) bookworm; urgency=medium
+
+  * depend on python3 as alternative to unversioned python because the latter
+    is not provided in bookworm
+
+ -- Matthias Förste <foerste@schlittermann.de>  Wed, 17 Jan 2024 15:11:54 +0100
+
 mstpd (0.0.9~bpo10+1) buster-backports; urgency=medium
 
   * Built for buster-backports.
